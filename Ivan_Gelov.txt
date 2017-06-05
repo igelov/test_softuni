@@ -3,3 +3,5 @@ My Name is Ivan Gelov and I love to code!
 Though I got little time to to that great hoby!
 Tell something about you?
 TortoseGIT Some new text
+Conflict
+TortoseGIT
